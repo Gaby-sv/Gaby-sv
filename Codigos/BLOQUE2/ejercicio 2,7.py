@@ -1,6 +1,6 @@
 #Programa.7  el bar
 #Fecha de elaboraciÓn: 20210/10/23
-#Elaborado por: ANDREA GUADALUPE JIMENEZ CARDENAS
+#Elaborado por: GABRIELA SILVESTRE VERA 
 
 edad = int(input("Ingresa tu edad: "))
 if   edad >=18:
