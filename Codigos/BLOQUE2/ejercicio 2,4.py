@@ -1,6 +1,6 @@
 #Programa.4  programa que calcula los impuestos y dar un valor
 #Fecha de elaboraciÓn: 20210/10/22
-#Elaborado por: ANDREA GUADALUPE JIMENEZ CARDENAS
+#Elaborado por:GABRIELA SILVESTRE VERA 
 
 def calcular_impuesto(valor, tasa_impuesto):
   impuesto = valor * (tasa_impuesto / 100)
