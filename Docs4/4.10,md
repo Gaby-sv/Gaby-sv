@@ -10,3 +10,4 @@ Si está fuera del rango, imprime un mensaje pidiendo un número válido.
 Llama a la función es_primo para verificar si el número es primo.
 Si el número es primo, muestra el mensaje: "[número] es un número primo."
 Si no es primo, muestra: "[número] no es un número primo."
+
