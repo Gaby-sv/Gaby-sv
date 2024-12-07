@@ -1,0 +1,12 @@
+Determina si un número entero es primo.
+Retorna:
+False si:
+El número es menor que 2.
+El número es divisible por algún valor en el rango de 2 hasta la raíz cuadrada del número.
+True si el número no es divisible por ningún número en ese rango.
+Solicita al usuario que ingrese un número entero.
+Comprueba si el número está entre 10 y 99.
+Si está fuera del rango, imprime un mensaje pidiendo un número válido.
+Llama a la función es_primo para verificar si el número es primo.
+Si el número es primo, muestra el mensaje: "[número] es un número primo."
+Si no es primo, muestra: "[número] no es un número primo."
